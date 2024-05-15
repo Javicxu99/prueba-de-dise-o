@@ -1,0 +1,36 @@
+{
+  "precios": [
+    {
+      "titulo": "Free",
+      "precio": "0€/mes",
+      "caracteristicas": ["Característica 1", "Característica 2", "Característica 3"],
+      "url": "https://google.com"
+    },
+    {
+      "titulo": "Medium",
+      "precio": "10€/mes",
+      "caracteristicas": ["Característica 1", "Característica 2", "Característica 3"],
+      "url": "https://google.com"
+    },
+    {
+      "titulo": "Pro",
+      "precio": "30€/mes",
+      "caracteristicas": ["Característica 1", "Característica 2", "Característica 3"],
+      "url": "https://google.com"
+    }
+  ],
+  "imagenesCarrusel": [
+    {
+      "src": "/imagenes/imagen1.png",
+      "alt": "First slide"
+    },
+    {
+      "src": "/imagenes/imagen2.png",
+      "alt": "Second slide"
+    },
+    {
+      "src": "/imagenes/imagen3.png",
+      "alt": "Third slide"
+    }
+  ]
+}

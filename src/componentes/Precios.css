@@ -1,0 +1,52 @@
+/* Precios.css */
+.pricing-container {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+    background-color: #f8f8f8;
+  }
+  
+  .pricing-card {
+    width: 30%;
+    padding: 20px;
+    box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    text-align: center;
+    background-color: white;
+    border-radius: 10px;
+  }
+  
+  .pricing-card h2 {
+    color: #333;
+    font-size: 24px;
+  }
+  
+  .pricing-card p {
+    color: #666;
+    font-size: 16px;
+    font-weight: bold;
+  }
+  
+  .pricing-card ul {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .pricing-card ul li {
+    margin-top: 10px;
+    color: #555;
+  }
+  
+  .pricing-card button {
+    padding: 10px 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-top: 10px;
+  }
+  
+  .pricing-card button:hover {
+    background-color: #0056b3;
+  }
+  
